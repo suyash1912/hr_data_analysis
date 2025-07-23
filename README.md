@@ -1,10 +1,10 @@
-# 🧹 HR Data Analysis & Cleaning
+#  HR Data Analysis & Cleaning
 
 This project focuses on cleaning, preparing, and visualizing HR employee data to make it analysis-ready. The dataset was loaded directly from a GitHub release and processed using Python (pandas, seaborn, matplotlib).
 
 ---
 
-## 📌 Problem Statement
+##  Problem Statement
 
 **HR Data Cleaning for Analysis**  
 Prepare raw HR employee data by:
@@ -15,14 +15,14 @@ Prepare raw HR employee data by:
 
 ---
 
-## 🗂️ Dataset Source
+##  Dataset Source
 
 - **GitHub Release URL**: [Download Dataset](https://github.com/suyash1912/hr_data_analysis/releases/tag/data)
 - **File**: `hr_analysis_data.csv`
 
 ---
 
-## 🛠️ Cleaning Steps Performed
+##  Cleaning Steps Performed
 
 1. **Missing Values**  
    - Numeric: Filled with median  
@@ -42,21 +42,21 @@ Prepare raw HR employee data by:
 
 ---
 
-## 📊 Visualizations
+##  Visualizations
 
 The following charts were generated to understand the dataset:
 
-- 📈 Attrition Count
-- 👥 Gender-wise Attrition
-- 🏢 Department Distribution
-- 💰 Experience vs Salary (scatterplot)
-- 🎂 Age Distribution
+-  Attrition Count
+-  Gender-wise Attrition
+-  Department Distribution
+- Experience vs Salary (scatterplot)
+-  Age Distribution
 
 All visualizations were built using `seaborn` and `matplotlib`.
 
 ---
 
-## 💻 Tools & Libraries
+##  Tools & Libraries
 
 - Python 3.x
 - Pandas
@@ -80,7 +80,7 @@ Cleaned dataset preview:
 
 ---
 
-## 🚀 Future Work
+##  Future Work
 
 - Build a machine learning model to predict employee attrition
 - Create an interactive dashboard with Plotly or Streamlit
